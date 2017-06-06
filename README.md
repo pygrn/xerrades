@@ -10,4 +10,7 @@ Tan mateix, si t'interessa algun tema pots proposar-lo [obrint una issue](https:
 
 **Entre tots votarem totes les propostes** i les planificarem per als propers meetups.
 
+
+[Propostes fetes](https://github.com/pygrn/ideesxerrades/issues)
+
 [Xerrades realitzades](https://github.com/pygrn/xerrades)
