@@ -5,3 +5,7 @@ Tipus de la proposta:
 - [ ] Vull fer una xerrada
 
 Breu descripció en un o dos paràgrafs.
+
+Duració estimada
+
+TAGS: `TAG1, TAG2, TAG3, ...`
