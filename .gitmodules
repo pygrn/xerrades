@@ -1,0 +1,6 @@
+[submodule "scrapy"]
+	path = 20170712/01_scrapy
+	url = https://github.com/jbagot/Xerrada-Scrapy.git
+[submodule "pandas_intro"]
+	path = 20170712/02_pandas
+	url = https://github.com/victormartingarcia/2017-pyGrn-intropandas.git
