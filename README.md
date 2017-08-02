@@ -1,4 +1,16 @@
-# Xerrades de PyGRN
+# Python Girona
+
+Aquí trobareu tot allò referent a *Python Girona*, entre altres: 
+- xerrades
+- proposta de xerrades i temes
+- localitzacions
+- discussions varies
+
+
+-----------------
+
+
+## Xerrades de PyGRN
 
 Propera trobada **13/09/2017**!
 
@@ -11,7 +23,7 @@ Xerrades realitzades i planificació de les properes
 -----------------
 
 
-# Idees per a les xerrades
+## Idees per a les xerrades
 
 Si tens ganes de preparar una sessió específica tractant un tema en concret aquest és el teu lloc! 
 
