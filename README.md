@@ -26,5 +26,5 @@ Tan mateix, si t'interessa algun tema pots proposar-lo [obrint una issue](https:
 
 [Propostes fetes](https://github.com/pygrn/ideesxerrades/issues)
 
-[Xerrades realitzades](https://github.com/pygrn/xerrades)
+[Xerrades realitzades](xerrades/)
 
