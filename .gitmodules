@@ -4,3 +4,6 @@
 [submodule "pandas_intro"]
 	path = xerrades/20170712/02_pandas
 	url = https://github.com/victormartingarcia/2017-pyGrn-intropandas.git
+[submodule "xerrades/20170913/no_tot_es_programar"]
+	path = xerrades/20170913/no_tot_es_programar
+	url = https://github.com/ecarreras/xerrada-pygrn-no-tot-es-programar.git
