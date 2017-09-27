@@ -17,7 +17,7 @@ Propera trobada **13/09/2017**!
 Xerrades realitzades i planificació de les properes
 
 - [12/07/2017 - PyGRN#1](xerrades/20170712)
-- [13/09/2017 - PyGRN#2](https://www.meetup.com/PythonGirona/events/241597660/)
+- [13/09/2017 - PyGRN#2](xerrades/20170913)
 
 
 -----------------
