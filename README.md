@@ -18,6 +18,7 @@ Xerrades realitzades i planificació de les properes
 
 - [12/07/2017 - PyGRN#1](xerrades/20170712)
 - [13/09/2017 - PyGRN#2](xerrades/20170913)
+- [18/10/2017 - PyGRN#3](xerrades/20171018)
 
 
 -----------------
