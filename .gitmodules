@@ -8,5 +8,5 @@
 	path = xerrades/20170913/no_tot_es_programar
 	url = https://github.com/ecarreras/xerrada-pygrn-no-tot-es-programar.git
 [submodule "xerrades/20171018/intro_data_science"]
-	path = xerrades/20171018/intro_data_science
+	path = xerrades/20171018/2017-pyGrn-introdatascience
 	url = https://github.com/victormartingarcia/2017-pyGrn-introdatascience.git
