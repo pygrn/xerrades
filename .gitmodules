@@ -10,3 +10,6 @@
 [submodule "intro_data_science"]
 	path = xerrades/20171018/intro_data_science
 	url = https://github.com/victormartingarcia/2017-pyGrn-introdatascience.git
+[submodule "xerrades/2018/20180117/elastic_search"]
+	path = xerrades/2018/20180117/elastic_search
+	url = git@github.com:pygrn/elastic_search.git
