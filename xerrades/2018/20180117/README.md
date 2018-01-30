@@ -1,4 +1,4 @@
-# 17/012018 :: Cinquena trobada
+# 17/01/2018 :: Cinquena trobada | Elastic Search
 
 Ens veurem al [Parc Tecnològic](http://www.openstreetmap.org/way/63929565), a les 19:00.
 
