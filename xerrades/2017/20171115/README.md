@@ -1,4 +1,4 @@
-# 18/11/2017 :: Django & React
+# 18/11/2017 :: #4 Django & React
 
 Ens veurem al [Parc Tecnològic](http://www.openstreetmap.org/way/63929565), a les 19:00.
 
