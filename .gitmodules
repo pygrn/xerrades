@@ -1,15 +1,21 @@
 [submodule "scrapy"]
-	path = xerrades/20170712/01_scrapy
+	path = xerrades/2017/20170712/01_scrapy
 	url = https://github.com/jbagot/Xerrada-Scrapy.git
 [submodule "pandas_intro"]
-	path = xerrades/20170712/02_pandas
+	path = xerrades/2017/20170712/02_pandas
 	url = https://github.com/victormartingarcia/2017-pyGrn-intropandas.git
 [submodule "xerrades/20170913/no_tot_es_programar"]
-	path = xerrades/20170913/no_tot_es_programar
+	path = xerrades/2017/20170913/no_tot_es_programar
 	url = https://github.com/ecarreras/xerrada-pygrn-no-tot-es-programar.git
 [submodule "intro_data_science"]
-	path = xerrades/20171018/intro_data_science
+	path = xerrades/2017/20171018/intro_data_science
 	url = https://github.com/victormartingarcia/2017-pyGrn-introdatascience.git
 [submodule "xerrades/2018/20180117/elastic_search"]
 	path = xerrades/2018/20180117/elastic_search
 	url = git@github.com:pygrn/elastic_search.git
+[submodule "xerrades/20171115/django"]
+	path = xerrades/2017/20171115/django
+	url = git@github.com:pygrn/todos_django.git
+[submodule "xerrades/20171115/react"]
+	path = xerrades/2017/20171115/react
+	url = git@github.com:pygrn/todos_react
