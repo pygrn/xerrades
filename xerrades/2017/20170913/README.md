@@ -1,4 +1,4 @@
-# 13/09/2017 :: Segona trobada
+# 13/09/2017 :: #2 No tot és programar!
 
 Ens veurem al [Parc Tecnològic](http://www.openstreetmap.org/way/63929565), a les 19:00.
 
