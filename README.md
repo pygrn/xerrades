@@ -6,21 +6,23 @@ Aquí trobareu tot allò referent a *Python Girona*, entre altres:
 - localitzacions
 - discussions varies
 
+[Web](http://pythongirona.cat) | [Grup de Telegram](https://t.me/pygrn) | [Meetup](https://www.meetup.com/PythonGirona)
 
 -----------------
 
 
 ## Xerrades de PyGRN
 
-Propera trobada **13/09/2017**!
+Propera trobada **21/02/2018**!
 
 Xerrades realitzades i planificació de les properes
 
-- [12/07/2017 - PyGRN#1](xerrades/2017/20170712) Scrapy + Pandas
-- [13/09/2017 - PyGRN#2](xerrades/2017/20170913) No tot és programar
-- [18/10/2017 - PyGRN#3](xerrades/2017/20171018) Python Data Science
-- [15/11/2017 - PyGRN#4](xerrades/2017/20171115) Django APP&API + React client
-- [17/01/2018 - PyGRN#5](xerrades/2018/20180117) Elastic Search
+- [12/07/2017 - PyGRN#1](xerrades/2017/20170712) **Scrapy + Pandas**
+- [13/09/2017 - PyGRN#2](xerrades/2017/20170913) **No tot és programar**
+- [18/10/2017 - PyGRN#3](xerrades/2017/20171018) **Python Data Science**
+- [15/11/2017 - PyGRN#4](xerrades/2017/20171115) **Django APP&API + React client**
+- [17/01/2018 - PyGRN#5](xerrades/2018/20180117) **Elastic Search**
+- [21/02/2018 - PyGRN#6](xerrades/2018/20180221) **Taller sCMS #WIP**
 
 
 -----------------
