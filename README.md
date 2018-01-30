@@ -19,7 +19,7 @@ Xerrades realitzades i planificació de les properes
 - [12/07/2017 - PyGRN#1](xerrades/20170712) [Scrapy + Pandas]
 - [13/09/2017 - PyGRN#2](xerrades/20170913) [No tot és programar]
 - [18/10/2017 - PyGRN#3](xerrades/20171018) [Python Data Science]
-- [15/11/2017 - PyGRN#4](https://www.meetup.com/preview/PythonGirona/events/244339773) [WIP]
+- [15/11/2017 - PyGRN#4](xerrades/20171115) [Django APP&API + React client]
 - [17/01/2018 - PyGRN#5](xerrades/2018/20180117) [Elastic Search]
 
 
