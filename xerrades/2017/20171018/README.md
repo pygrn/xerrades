@@ -1,4 +1,4 @@
-# 18/10/2017 :: Tercera trobada
+# 18/10/2017 :: #3 Python Data Science
 
 Ens veurem al [Parc Tecnològic](http://www.openstreetmap.org/way/63929565), a les 19:00.
 
