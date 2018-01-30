@@ -1,4 +1,4 @@
-# 12/07/2017 :: Primera trobada
+# 12/07/2017 :: #1 Scrapy & Pandas
 
 Ens veurem al [Parc Tecnològic](http://www.openstreetmap.org/way/63929565), a les 19:00.
 
