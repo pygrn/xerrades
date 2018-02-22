@@ -19,3 +19,6 @@
 [submodule "xerrades/2017/20171115/react"]
 	path = xerrades/2017/20171115/react
 	url = git@github.com:pygrn/todos_react
+[submodule "xerrades/2018/20180221/scms"]
+	path = xerrades/2018/20180221/scms
+	url = git@github.com:pygrn/scms.git
