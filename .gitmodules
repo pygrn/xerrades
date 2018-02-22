@@ -13,9 +13,9 @@
 [submodule "xerrades/2018/20180117/elastic_search"]
 	path = xerrades/2018/20180117/elastic_search
 	url = git@github.com:pygrn/elastic_search.git
-[submodule "xerrades/20171115/django"]
+[submodule "xerrades/2017/20171115/django"]
 	path = xerrades/2017/20171115/django
 	url = git@github.com:pygrn/todos_django.git
-[submodule "xerrades/20171115/react"]
+[submodule "xerrades/2017/20171115/react"]
 	path = xerrades/2017/20171115/react
 	url = git@github.com:pygrn/todos_react
