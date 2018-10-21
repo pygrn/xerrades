@@ -22,3 +22,6 @@
 [submodule "xerrades/2018/20180221/scms"]
 	path = xerrades/2018/20180221/scms
 	url = git@github.com:pygrn/scms.git
+[submodule "xerrades/2018/20181018/docker101"]
+	path = xerrades/2018/20181018/docker101
+	url = git@github.com:pygrn/docker101.git

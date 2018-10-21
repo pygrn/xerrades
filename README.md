@@ -23,6 +23,9 @@ Xerrades realitzades i planificació de les properes
 - [15/11/2017 - PyGRN#4](xerrades/2017/20171115) **Django APP&API + React client**
 - [17/01/2018 - PyGRN#5](xerrades/2018/20180117) **Elastic Search**
 - [21/02/2018 - PyGRN#6](xerrades/2018/20180221) **Taller sCMS #WIP**
+- [20/06/2018 - PyGRN#7] **Taller Ansible**
+- [27/09/2018 - PyGRN#8] **Locust**
+- [18/10/2018 - PyGRN#9](xerrades/2018/20181018) **Docker 101**
 
 
 -----------------
