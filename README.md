@@ -27,6 +27,7 @@ Xerrades realitzades i planificació de les properes
 - [27/09/2018 - PyGRN#8] **Locust**
 - [18/10/2018 - PyGRN#9](xerrades/2018/20181018) **Docker 101**
 - [15/11/2018 - PyGRN#10](xerrades/2018/20181115) **Pentesting Python**
+- [13/12/2018 - PyGRN#11](xerrades/2018/20181213) **Taller introducció VueJS**
 
 
 -----------------
@@ -48,4 +49,3 @@ Tan mateix, si t'interessa algun tema pots proposar-lo [obrint una issue](https:
 [Propostes fetes](https://github.com/pygrn/xerrades/issues)
 
 [Xerrades realitzades](xerrades/)
-
