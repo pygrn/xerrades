@@ -26,6 +26,7 @@ Xerrades realitzades i planificació de les properes
 - [20/06/2018 - PyGRN#7] **Taller Ansible**
 - [27/09/2018 - PyGRN#8] **Locust**
 - [18/10/2018 - PyGRN#9](xerrades/2018/20181018) **Docker 101**
+- [15/11/2018 - PyGRN#10](xerrades/2018/20181115) **Pentesting Python**
 
 
 -----------------
