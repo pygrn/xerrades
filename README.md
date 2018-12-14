@@ -24,7 +24,7 @@ Xerrades realitzades i planificació de les properes
 - [17/01/2018 - PyGRN#5](xerrades/2018/20180117) **Elastic Search**
 - [21/02/2018 - PyGRN#6](xerrades/2018/20180221) **Taller sCMS #WIP**
 - [20/06/2018 - PyGRN#7] **Taller Ansible**
-- [27/09/2018 - PyGRN#8] **Locust**
+- [27/09/2018 - PyGRN#8](xerrades/2018/20180927) **Introducció a Locust**
 - [18/10/2018 - PyGRN#9](xerrades/2018/20181018) **Docker 101**
 - [15/11/2018 - PyGRN#10](xerrades/2018/20181115) **Pentesting Python**
 - [13/12/2018 - PyGRN#11](xerrades/2018/20181213) **Taller introducció VueJS**
