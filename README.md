@@ -13,7 +13,7 @@ Aquí trobareu tot allò referent a *Python Girona*, entre altres:
 
 ## Xerrades de PyGRN
 
-Propera trobada **21/02/2018**!
+Propera trobada **07/03/2019** :: Taller Docker!!!
 
 Xerrades realitzades i planificació de les properes
 
