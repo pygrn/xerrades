@@ -1,6 +1,6 @@
 # Python Girona
 
-Aquí trobareu tot allò referent a *Python Girona*, entre altres: 
+Aquí trobareu tot allò referent a *Python Girona*, entre altres:
 - xerrades
 - proposta de xerrades i temes
 - localitzacions
@@ -28,6 +28,7 @@ Xerrades realitzades i planificació de les properes
 - [18/10/2018 - PyGRN#9](xerrades/2018/20181018) **Docker 101**
 - [15/11/2018 - PyGRN#10](xerrades/2018/20181115) **Pentesting Python**
 - [13/12/2018 - PyGRN#11](xerrades/2018/20181213) **Taller introducció VueJS**
+- [07/02/2019 - PyGRN#12](xerrades/2019/20190207) **Scientific Python**
 
 
 -----------------
@@ -35,7 +36,7 @@ Xerrades realitzades i planificació de les properes
 
 ## Idees per a les xerrades
 
-Si tens ganes de preparar una sessió específica tractant un tema en concret aquest és el teu lloc! 
+Si tens ganes de preparar una sessió específica tractant un tema en concret aquest és el teu lloc!
 
 **No tinguis por** i [obre una issue](https://github.com/pygrn/xerrades/issues/new)!
 
