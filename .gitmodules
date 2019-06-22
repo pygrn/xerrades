@@ -28,3 +28,6 @@
 [submodule "xerrades/2019/20190207/scipy"]
 	path = xerrades/2019/20190207/scipy
 	url = https://github.com/efarres/pygrn-scipy.git
+[submodule "xerrades/2019/20190307/taller-docker"]
+	path = xerrades/2019/20190307/taller-docker
+	url = git@github.com:pygrn/docker101.git
