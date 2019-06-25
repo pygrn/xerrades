@@ -29,6 +29,8 @@ Xerrades realitzades i planificació de les properes
 - [15/11/2018 - PyGRN#10](xerrades/2018/20181115) **Pentesting Python**
 - [13/12/2018 - PyGRN#11](xerrades/2018/20181213) **Taller introducció VueJS**
 - [07/02/2019 - PyGRN#12](xerrades/2019/20190207) **Scientific Python**
+- [07/03/2019 - PyGRN#13](xerrades/2019/20190307) **Taller de Docker**
+- [11/04/2019 - PyGRN#14](xerrades/2019/20190411) **GraphQL**
 
 
 -----------------
