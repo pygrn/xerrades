@@ -1,4 +1,4 @@
-# 20/06/2018 :: #8 Introducció a Locust
+# 20/06/2018 :: #7 Taller Ansible
 
 Ens veurem al [Parc Tecnològic](http://www.openstreetmap.org/way/63929565), a les 19:00.
 
