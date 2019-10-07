@@ -31,3 +31,9 @@
 [submodule "xerrades/2019/20190307/taller-docker"]
 	path = xerrades/2019/20190307/taller-docker
 	url = git@github.com:pygrn/docker101.git
+[submodule "xerrades/2019/20190411/graphql"]
+	path = xerrades/2019/20190411/graphql
+	url = https://github.com/d-asensio/graphql-talk.git
+[submodule "xerrades/2019/20190926/kubernetes101"]
+	path = xerrades/2019/20190926/kubernetes101
+	url = git@github.com:pygrn/kubernetes101.git

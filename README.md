@@ -31,6 +31,7 @@ Xerrades realitzades i planificació de les properes
 - [07/02/2019 - PyGRN#12](xerrades/2019/20190207) **Scientific Python**
 - [07/03/2019 - PyGRN#13](xerrades/2019/20190307) **Taller de Docker**
 - [11/04/2019 - PyGRN#14](xerrades/2019/20190411) **GraphQL**
+- [26/09/2019 - PyGRN#15](xerrades/2019/20190926) **Kubernetes 101**
 
 
 -----------------
