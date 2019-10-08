@@ -31,12 +31,16 @@ Aquest document pretén ser una guia per ajudar a la persona encarregada de cont
 ## Durant la xerrada
 1. Controlar el temps perquè no s'allargui més del compte.
 2. Controlar les interrupcions i/o trepitjades al ponent.
-3. Entre les 20:00 i les 20:30 trucar a la pizzeria: Telèfon: **972 20 00 20**
-   1. Demanar-les a la direcció:
-        **Parc tecnològic, edifici Giroemprèn (Carrer Pic de Peguera, 1)**
-   2. Demanar 1 pizza familiar per cada 3 persones. La oferta és 3x1, per tant s'haurien d'agafar múltiples de 3. Es poden agafar 3 familiars, 3 petites o mitjanes, etc.
-   3. Demanar gots de plàstic.
-   4. Agafar el ticket.
+3. Entre 30' i 40' abans de l'hora prevista de finalització (idealment entre les 20:00 i les 20:30) trucar a la pizzeria: Telèfon: **972 20 00 20**
+   1. Si utilitzeu el telf d'en @XaviTorello ja tenen les dades
+   2. Demanar-les a la direcció:
+        **Parc tecnològic, edifici Giroemprèn (Carrer Pic de Peguera, 1)**, a la recepció
+   3. Demanar 1 pizza familiar per cada 3 persones. La oferta és 3x1, per tant s'haurien d'agafar múltiples de 3. Es poden agafar 3 familiars, 3 petites o mitjanes, etc.
+   4. Demanar 2L de refresc per cada 6-8 persones. L'aigua es pot comprar a les màquines del Parc.
+   5. **IMPORTANT!**
+      1. Demanar gots de paper/plàstic
+      2. Demanar que les pizzes vinguin tallades
+      3. Agafar el ticket i enviar-lo al grup `Core` de Telegram
 
 ## Després de la xerrada
 1. Donar pas a ronda de preguntes (si s'escau).
