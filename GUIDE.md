@@ -18,14 +18,15 @@ Aquest document pretén ser una guia per ajudar a la persona encarregada de cont
 3. Modificar el _meetup_ amb les dades de l'aula reservada (si no es va poder indicar al publicar-lo).
 
 ## Abans de la xerrada
-1. Agafar la clau de l'aula a recepció.
-2. Donar la benvinguda al ponent (aigua) i als assistents.
-3. Si hi ha alguna persona nova, se li pot donar la benvinguda i explicar qui som.
-4. Esperar als assistents i anar-los a buscar a la porta d'entrada (a vegades hi ha gent que no sap on és l'aula).
-5. Revisar quants assistents estan apuntats al _meetup_ i quants han arribat.
+1. Recordar comprar una ampolla d'aigua per cada ponent.
+2. Agafar la clau de l'aula a recepció.
+3. Obrir la sala i validar amb el ponent que tot funciona (projector, inet, A/C, ...)
+4. Si hi ha alguna persona nova, se li pot donar la benvinguda i explicar qui som.
+5. Esperar als assistents i anar-los a buscar a la porta d'entrada (a vegades hi ha gent que no sap on és l'aula).
+6. Revisar quants assistents estan apuntats al _meetup_ i quants han arribat.
    1. Si la diferència és considerable, podem esperar una mica, 5-10 min.
-6. Preguntar qui es quedarà a menjar pizzes i les intoleràncies o preferències (vegetarià, formatge, etc).
-7. Donar pas a la xerrada.
+7. Preguntar qui es quedarà a menjar pizzes i possibles intoleràncies/preferències (vegetarià, formatge, etc).
+8. Donar pas a la xerrada introduïnt breument la sessió i el ponent.
 
 ## Durant la xerrada
 1. Controlar el temps perquè no s'allargui més del compte.
