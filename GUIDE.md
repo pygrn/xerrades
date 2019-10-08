@@ -1,6 +1,21 @@
 # Guia del dia de la xerrada
 
-Aquest document pretén ser una guia per ajudar a la persona encarregada de controlar la xerrada a com gestionar un dia de xerrades.
+Aquest document pretén ser una guia per ajudar a la persona encarregada de controlar la xerrada a com gestionar una sessió.
+
+## Molt abans de la xerrada (planning)
+1. Per anar bé, un parell de setmanes abans de la sessió s'hauria de contactar amb l'equip de reserves del `Parc UdG`
+2. Proposar nova xerrada per la data de la sessió, trobant la sala adient depenent del tipus de format de la sessió i la quantitat de gent prevista:
+  1. Tipus de sales
+    1. Format aulari (tipus escola/uni)
+      1. Ideal per quan es prevegui molta assistència
+    2. Format sala (en forma d'U)
+      1. Ideal pels tallers i per sessions amb previsió de menor assitència (més informal i tothom veu a tothom)
+  2. Exemple mail
+    1. Subject: `Python Girona - Nova sessió dj 11/04 19:00`
+    2. Body: `Bon dia, el proper dijous 11/04 a les 19:00 tenim previst trobar-nos, ens ajudaríeu cedint-nos una sala s.u.p.? Us adjuntem més informació al respecte $URL_meetup. Gràcies! Salutacions cordials, Python Girona`
+    3. To: `eva.marti at parcudg dot com, comunicacio at parcudg dot com`
+    4. Cc: Penseu en copiar a l'equip Core, així estarem tots al cas :)
+3. Modificar el _meetup_ amb les dades de l'aula reservada (si no es va poder indicar al publicar-lo).
 
 ## Abans de la xerrada
 1. Agafar la clau de l'aula a recepció.
