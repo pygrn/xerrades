@@ -39,6 +39,7 @@ Aquest document pretén ser una guia per ajudar a la persona encarregada de cont
    4. Demanar 2L de refresc per cada 6-8 persones. L'aigua es pot comprar a les màquines del Parc.
    5. **IMPORTANT!**
       1. Demanar gots de paper/plàstic
+      1. Demanar tovallons
       2. Demanar que les pizzes vinguin tallades
       3. Agafar el ticket i enviar-lo al grup `Core` de Telegram
 
