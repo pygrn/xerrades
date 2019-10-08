@@ -45,11 +45,18 @@ Aquest document pretén ser una guia per ajudar a la persona encarregada de cont
 ## Després de la xerrada
 1. Donar pas a ronda de preguntes (si s'escau).
 2. Moderar les preguntes.
-3. Explicar:
+3. Introduïr les _Lightning Talks_ (xerrades llamp)
+   1. Valdria la pena que els `Core` que vinguem a la xerrada ens preparem algun tema per dinamitzar-ho i engrescar a la gent :)
+   2. Recordar que es tracta de xerrades totalment informals i improvisades de no més de 4-5 minuts.
+   3. Només cal demanar voluntaris, i posar exemples del que pot ser:
+      - Avui he descobert aquest repo / projecte nou
+      - Curiositats ecosistema Python / tech en general
+      - ...
+4. Explicar:
    1. Dir quin dia serà la propera trobada.
    2. De què serà la propera trobada.
    3. Recordar que es poden fer _issues_ amb propostes.
    4. Recordar que es poden votar les _issues_.
-4. Netejar l'aula.
-5. Tancar l'aula.
-6. Tornar la clau.
+5. Netejar l'aula.
+6. Tancar l'aula.
+7. Tornar la clau.
