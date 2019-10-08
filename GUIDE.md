@@ -44,9 +44,9 @@ Aquest document pretén ser una guia per ajudar a la persona encarregada de cont
       3. Agafar el ticket i enviar-lo al grup `Core` de Telegram
 
 ## Després de la xerrada
-1. Donar pas a ronda de preguntes (si s'escau).
+1. Agraïr-li la xerrada al ponent i donar pas a ronda de preguntes (si s'escau).
 2. Moderar les preguntes.
-3. Introduïr les _Lightning Talks_ (xerrades llamp)
+3. Introduïr les _Lightning Talks_ (xerrades llamp) si pertoca
    1. Valdria la pena que els `Core` que vinguem a la xerrada ens preparem algun tema per dinamitzar-ho i engrescar a la gent :)
    2. Recordar que es tracta de xerrades totalment informals i improvisades de no més de 4-5 minuts.
    3. Només cal demanar voluntaris, i posar exemples del que pot ser:
