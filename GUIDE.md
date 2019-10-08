@@ -58,6 +58,9 @@ Aquest document pretén ser una guia per ajudar a la persona encarregada de cont
    2. De què serà la propera trobada.
    3. Recordar que es poden fer _issues_ amb propostes.
    4. Recordar que es poden votar les _issues_.
-5. Netejar l'aula.
-6. Tancar l'aula.
-7. Tornar la clau.
+5. Quan arribin les pizzes, portar-les a la sala i si no hi ha cap sessió en marxa 
+   1. Col·locar-les una al costat de l'altra (si cal moure alguna taula per fer zona de menjar)   
+   2. Obrir les caixes, i anar preparant gots + refresc.
+6. Netejar l'aula, recollir i treure la brossa.
+7. Tancar l'aula.
+8. Tornar la clau i agraïr el suport del Parc.
