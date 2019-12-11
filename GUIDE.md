@@ -31,7 +31,7 @@ Aquest document pretén ser una guia per ajudar a la persona encarregada de cont
 ## Durant la xerrada
 1. Controlar el temps perquè no s'allargui més del compte.
 2. Controlar les interrupcions i/o trepitjades al ponent.
-3. Entre 30' i 40' abans de l'hora prevista de finalització (idealment entre les 20:00 i les 20:30) trucar a la pizzeria: Telèfon: **972 20 00 20**
+3. Entre 30' i 40' abans de l'hora prevista de finalització (idealment entre les 20:00 i les 20:30) trucar a la pizzeria: Telèfon: **972 22 00 20**
    1. Si utilitzeu el telf d'en @XaviTorello ja tenen les dades
    2. Demanar-les a la direcció:
         **Parc tecnològic, edifici Giroemprèn (Carrer Pic de Peguera, 1)**, a la recepció
