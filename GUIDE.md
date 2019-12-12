@@ -31,7 +31,8 @@ Aquest document pretén ser una guia per ajudar a la persona encarregada de cont
 ## Durant la xerrada
 1. Controlar el temps perquè no s'allargui més del compte.
 2. Controlar les interrupcions i/o trepitjades al ponent.
-3. Entre 30' i 40' abans de l'hora prevista de finalització (idealment entre les 20:00 i les 20:30) trucar a la pizzeria: Telèfon: **972 22 00 20**
+3. Fer alguna foto de la sessió per pujar-les a Tw i/o Meetup.
+4. Entre 30' i 40' abans de l'hora prevista de finalització (idealment entre les 20:00 i les 20:30) trucar a la pizzeria: Telèfon: **972 22 00 20**
    1. Si utilitzeu el telf d'en @XaviTorello ja tenen les dades
    2. Demanar-les a la direcció:
         **Parc tecnològic, edifici Giroemprèn (Carrer Pic de Peguera, 1)**, a la recepció
@@ -62,6 +63,7 @@ Aquest document pretén ser una guia per ajudar a la persona encarregada de cont
    1. Col·locar-les una al costat de l'altra (si cal moure alguna taula per fer zona de menjar)   
    2. Obrir les caixes, i anar preparant gots + refresc.
    3. Explicar que el sopar ens el patrocina la Associació Python Espanya.
+      - A ser possible fer alguna foto del moment on es vegin les pizzes i els assistents, s'utilitzarà per donar les gràcies públicament via Tw.
 6. Netejar l'aula, recollir i treure la brossa.
 7. Tancar l'aula.
 8. Tornar la clau i agraïr el suport del Parc.
