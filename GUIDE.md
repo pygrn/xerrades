@@ -61,6 +61,7 @@ Aquest document pretén ser una guia per ajudar a la persona encarregada de cont
 5. Quan arribin les pizzes, portar-les a la sala i si no hi ha cap sessió en marxa 
    1. Col·locar-les una al costat de l'altra (si cal moure alguna taula per fer zona de menjar)   
    2. Obrir les caixes, i anar preparant gots + refresc.
+   3. Explicar que el sopar ens el patrocina la Associació Python Espanya.
 6. Netejar l'aula, recollir i treure la brossa.
 7. Tancar l'aula.
 8. Tornar la clau i agraïr el suport del Parc.
