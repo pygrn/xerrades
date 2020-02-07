@@ -37,3 +37,12 @@
 [submodule "xerrades/2019/20190926/kubernetes101"]
 	path = xerrades/2019/20190926/kubernetes101
 	url = git@github.com:pygrn/kubernetes101.git
+[submodule "xerrades/2019/20191114/pytest"]
+	path = xerrades/2019/20191114/pytest
+	url = git@github.com:pygrn/pytest.git
+[submodule "xerrades/2020/20200206/k8s-workshop"]
+	path = xerrades/2020/20200206/k8s-workshop
+	url = git@github.com:pygrn/k8s-workshop.git
+[submodule "xerrades/2020/20200206/k8s_ws_django"]
+	path = xerrades/2020/20200206/k8s_ws_django
+	url = https://github.com/pygrn/k8s_ws_django
