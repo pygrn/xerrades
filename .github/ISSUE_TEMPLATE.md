@@ -6,6 +6,8 @@ Tipus de la proposta:
 
 Breu descripció en un o dos paràgrafs.
 
+Nivell de la xerrada: Iniciació, baix, mig, alt... coneixements previs necessaris
+
 Duració estimada
 
 TAGS: `TAG1, TAG2, TAG3, ...`
